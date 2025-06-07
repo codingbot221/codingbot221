@@ -21,12 +21,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aishwaryag22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwaryag22" height="30" width="40" /></a>
-<a href="https://instagram.com/aishwarya.g__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aishwarya.g__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aishwarya0022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aishwarya0022" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aishwarya_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aishwarya_00" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aishwarya22_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aishwarya22_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aishwarya7oaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aishwarya7oaa" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/aishwaryag22" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwaryag22" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/aishwarya0022" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="codechef" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/@aishwarya_00" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/aishwarya22_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/aishwarya7oaa" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" />
+  </a>
 </p>
 
 
@@ -86,15 +95,22 @@
   </a>
 </p>
 
-
 <br/>
 <h2 align="center" style="color:#00FFFF">⚡ Current Statistics ⚡</h2>
 <br>
-<div align="center">
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img width="390" height="200" src="https://streak-stats.demolab.com/?user=codingbot221&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=codingbot221&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="390" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingbot221&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img width="800" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingbot221&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 <br/><br/>
+
 
 
