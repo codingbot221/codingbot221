@@ -8,13 +8,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-
-
-
+***
 
 <div align="center">
 
-<div align="center">
+
 - 🔭 I’m currently working on [NetflixDB](https://github.com/codingbot221/NetflixDashboard)  
 - 🌱 I’m currently learning **Tableau, PowerBI, ML, DL**  
 - 👯 I’m looking to collaborate on [tourism](https://github.com/codingbot221/tourism)  
@@ -22,13 +20,12 @@
 - 📫 How to reach me **garikapatiaishwarya22@gmail.com**  
 - ⚡ Fun fact **I once built an entire web app overnight just because I didn’t want to sleep without solving the bug.😄💻**
 
-</div>
 
 </div>
 
 
 
-
+***
 
 
 
@@ -50,6 +47,7 @@
 
 
 
+***
 
 
 
