@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Garikapati Aishwarya</h1>
+<h1 align="center">Hi,I'm Garikapati Aishwarya</h1>
 <h3 align="center">Frontend Developer | Aspiring Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbot221&label=Profile%20views&color=0e75b6&style=flat" alt="codingbot221" /> </p>
@@ -7,29 +7,29 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [NetflixDB](https://github.com/codingbot221/NetflixDashboard)
 
-- 🌱 I’m currently learning **Tableau,PowerBI,ML,DL**
 
-- 👯 I’m looking to collaborate on [tourism](https://github.com/codingbot221/tourism)
 
-- 💬 Ask me about **HTML,CSS,JS,React,Angular,MongoDB**
 
-- 📫 How to reach me **garikapatiaishwarya22@gmail.com**
+<div align="center">
 
+- 🔭 I’m currently working on [NetflixDB](https://github.com/codingbot221/NetflixDashboard)  
+- 🌱 I’m currently learning **Tableau, PowerBI, ML, DL**  
+- 👯 I’m looking to collaborate on [tourism](https://github.com/codingbot221/tourism)  
+- 💬 Ask me about **HTML, CSS, JS, React, Angular, MongoDB**  
+- 📫 How to reach me **garikapatiaishwarya22@gmail.com**  
 - ⚡ Fun fact **I once built an entire web app overnight just because I didn’t want to sleep without solving the bug.😄💻**
+
+</div>
 
 
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/aishwaryag22" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwaryag22" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/aishwarya0022" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="codechef" height="30" width="40" />
-  </a>
+<a href="https://www.codechef.com/users/aishwarya0022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aishwarya0022" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/@aishwarya_00" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
   </a>
@@ -46,7 +46,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -100,6 +100,11 @@
   </a>
 </p>
 
+
+
+
+
+
 <br/>
 <h2 align="center" style="color:#00FFFF">⚡ Current Statistics ⚡</h2>
 <br>
@@ -116,6 +121,7 @@
 </div>
 
 <br/><br/>
+
 
 
 
