@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact **I once built an entire web app overnight just because I didn’t want to sleep without solving the bug.😄💻**
 
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/aishwaryag22" target="blank">
@@ -37,6 +40,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" />
   </a>
 </p>
+
+
 
 
 
