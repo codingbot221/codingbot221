@@ -11,8 +11,10 @@
 
 
 
+
 <div align="center">
 
+<div align="center">
 - 🔭 I’m currently working on [NetflixDB](https://github.com/codingbot221/NetflixDashboard)  
 - 🌱 I’m currently learning **Tableau, PowerBI, ML, DL**  
 - 👯 I’m looking to collaborate on [tourism](https://github.com/codingbot221/tourism)  
@@ -22,10 +24,15 @@
 
 </div>
 
+</div>
 
 
 
-<h3 align="left">Connect with me:</h3>
+
+
+
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/aishwaryag22" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwaryag22" height="30" width="40" />
@@ -45,7 +52,8 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
