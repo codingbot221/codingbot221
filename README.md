@@ -1,6 +1,42 @@
 <h1 align="center">Hi,I'm Garikapati Aishwarya</h1>
 <h3 align="center">Frontend Developer | Aspiring Data Analyst</h3>
 
+
+
+<div align="center">
+- 🔭 I’m currently working on [NetflixDB](https://github.com/codingbot221/NetflixDashboard)  
+- 🌱 I’m currently learning **Tableau, PowerBI, ML, DL**  
+- 👯 I’m looking to collaborate on [tourism](https://github.com/codingbot221/tourism)  
+- 💬 Ask me about **HTML, CSS, JS, React, Angular, MongoDB**  
+- 📫 How to reach me **garikapatiaishwarya22@gmail.com**  
+- ⚡ Fun fact **I once built an entire web app overnight just because I didn’t want to sleep without solving the bug.😄💻**
+</div>
+
+<br/>
+
+
+<div align="center">
+  <h2>🏅 LeetCode Badges</h2>
+  <p>
+    <!-- Annual Medals -->
+    <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" alt="100 Days Badge 2025" width="200" height="200" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="50 Days Badge 2025" width="200" height="200" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Badge 2024" width="200" height="200" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge 2024" width="200" height="200" />
+    
+    <!-- Monthly Badges -->
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="September 2024" width="200" height="200" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="October 2024" width="200" height="200" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November 2024" width="200" height="200" />
+    
+    <!-- Study Plan Medals -->
+    <img src="https://leetcode.com/static/images/badges/study-plan/top-sql-50.png" alt="Top SQL 50" width="200" height="200" />
+    <img src="https://leetcode.com/static/images/badges/study-plan/introduction-to-pandas.png" alt="Introduction to Pandas" width="200" height="200" />
+  </p>
+</div>
+
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbot221&label=Profile%20views&color=0e75b6&style=flat" alt="codingbot221" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingbot221" alt="codingbot221" /></a> </p>
@@ -8,24 +44,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-***
-
-<div align="center">
 
 
-- 🔭 I’m currently working on [NetflixDB](https://github.com/codingbot221/NetflixDashboard)  
-- 🌱 I’m currently learning **Tableau, PowerBI, ML, DL**  
-- 👯 I’m looking to collaborate on [tourism](https://github.com/codingbot221/tourism)  
-- 💬 Ask me about **HTML, CSS, JS, React, Angular, MongoDB**  
-- 📫 How to reach me **garikapatiaishwarya22@gmail.com**  
-- ⚡ Fun fact **I once built an entire web app overnight just because I didn’t want to sleep without solving the bug.😄💻**
+<br/>
 
-
-</div>
-
-
-
-***
 
 
 
@@ -47,7 +69,7 @@
 
 
 
-***
+<br/>
 
 
 
