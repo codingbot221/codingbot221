@@ -4,36 +4,47 @@
 
 
 <div align="center">
-- 🔭 I’m currently working on [NetflixDB](https://github.com/codingbot221/NetflixDashboard)  
-- 🌱 I’m currently learning **Tableau, PowerBI, ML, DL**  
-- 👯 I’m looking to collaborate on [tourism](https://github.com/codingbot221/tourism)  
-- 💬 Ask me about **HTML, CSS, JS, React, Angular, MongoDB**  
-- 📫 How to reach me **garikapatiaishwarya22@gmail.com**  
-- ⚡ Fun fact **I once built an entire web app overnight just because I didn’t want to sleep without solving the bug.😄💻**
+
+  <p>🔭 I’m currently working on <a href="https://github.com/codingbot221/NetflixDashboard">NetflixDB</a></p>
+  <p>🌱 I’m currently learning <strong>Tableau, PowerBI, ML, DL</strong></p>
+  <p>👯 I’m looking to collaborate on <a href="https://github.com/codingbot221/tourism">tourism</a></p>
+  <p>💬 Ask me about <strong>HTML, CSS, JS, React, Angular, MongoDB</strong></p>
+  <p>📫 How to reach me <strong>garikapatiaishwarya22@gmail.com</strong></p>
+  <p>⚡ Fun fact <strong>I once built an entire web app overnight just because I didn’t want to sleep without solving the bug. 😄💻</strong></p>
+
 </div>
+
 
 <br/>
 
-
 <div align="center">
   <h2>🏅 LeetCode Badges</h2>
+
+  <!-- Study Plan Badges -->
   <p>
- 
-    <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" alt="100 Days Badge 2025" width="200" height="200" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="50 Days Badge 2025" width="200" height="200" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Badge 2024" width="200" height="200" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge 2024" width="200" height="200" />
-    
-    
+    <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50" width="200" height="200" />
+    <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="Introduction to Pandas" width="200" height="200" />
+  </p>
+
+  <!-- Monthly Badges -->
+  <p>
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="September 2024" width="200" height="200" />
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="October 2024" width="200" height="200" />
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November 2024" width="200" height="200" />
-    
+  </p>
 
-    <img src="https://leetcode.com/static/images/badges/study-plan/top-sql-50.png" alt="Top SQL 50" width="200" height="200" />
-    <img src="https://leetcode.com/static/images/badges/study-plan/introduction-to-pandas.png" alt="Introduction to Pandas" width="200" height="200" />
+  <!-- Annual Badges -->
+  <p>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge 2024" width="200" height="200" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge 2024" width="200" height="200" />
+  </p>
+
+  <p>
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days Badge 2025" width="200" height="200" />
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Days Badge 2025" width="200" height="200" />
   </p>
 </div>
+
 
 <br/>
 
