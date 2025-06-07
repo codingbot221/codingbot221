@@ -18,18 +18,18 @@
 <div align="center">
   <h2>🏅 LeetCode Badges</h2>
   <p>
-    <!-- Annual Medals -->
+ 
     <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" alt="100 Days Badge 2025" width="200" height="200" />
     <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="50 Days Badge 2025" width="200" height="200" />
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Badge 2024" width="200" height="200" />
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge 2024" width="200" height="200" />
     
-    <!-- Monthly Badges -->
+    
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="September 2024" width="200" height="200" />
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="October 2024" width="200" height="200" />
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November 2024" width="200" height="200" />
     
-    <!-- Study Plan Medals -->
+
     <img src="https://leetcode.com/static/images/badges/study-plan/top-sql-50.png" alt="Top SQL 50" width="200" height="200" />
     <img src="https://leetcode.com/static/images/badges/study-plan/introduction-to-pandas.png" alt="Introduction to Pandas" width="200" height="200" />
   </p>
