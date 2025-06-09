@@ -3,18 +3,6 @@
 
 
 
-<div align="center">
-
-  <p>🔭 I’m currently working on <a href="https://github.com/codingbot221/NetflixDashboard">NetflixDB</a></p>
-  <p>🌱 I’m currently learning <strong>Tableau, PowerBI, ML, DL</strong></p>
-  <p>👯 I’m looking to collaborate on <a href="https://github.com/codingbot221/tourism">tourism</a></p>
-  <p>💬 Ask me about <strong>HTML, CSS, JS, React, Angular, MongoDB</strong></p>
-  <p>📫 How to reach me <strong>garikapatiaishwarya22@gmail.com</strong></p>
-  <p>⚡ Fun fact <strong>I once built an entire web app overnight just because I didn’t want to sleep without solving the bug. 😄💻</strong></p>
-
-</div>
-
-
 <br/>
 
 <div align="center">
