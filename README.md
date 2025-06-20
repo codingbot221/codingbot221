@@ -136,7 +136,7 @@
 <h2 align="center" style="color:#00FFFF">⚡ Current Statistics ⚡</h2>
 <br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img width="390" height="200" src="https://streak-stats.demolab.com/?user=codingbot221&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=codingbot221&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
@@ -148,6 +148,7 @@
 </div>
 
 <br/><br/>
+
 
 
 
