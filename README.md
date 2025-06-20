@@ -129,27 +129,43 @@
 
 
 
-
-
-
-<br/>
+<br />
 <h2 align="center" style="color:#00FFFF">⚡ Current Statistics ⚡</h2>
+<br />
+
 <br>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img width="390" height="200" src="https://streak-stats.demolab.com/?user=codingbot221&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=codingbot221&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=codingbot221&theme=react&date_format=M%20j%5B%2C%20Y%5D&border_radius=10"
+    alt="GitHub Streak Stats"
+    width="390"
+    height="200"
+  />
+
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=codingbot221&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+    alt="GitHub Stats"
+    width="390"
+    height="200"
+  />
 </div>
 
-<br/>
+<br />
 
+<!-- Top Languages -->
 <div align="center">
-  <img width="800" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingbot221&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingbot221&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+    alt="Top Languages"
+    width="800"
+    height="200"
+  />
 </div>
 
-<br/><br/>
 
-
+<br>
 
 
 
