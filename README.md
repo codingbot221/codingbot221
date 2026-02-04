@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garikapati Aishwarya</h1>
 
 <h3 align="center">
-AI/ML Engineer • Full-Stack Developer • Problem Solver
+Aspiring AI/ML Engineer • Full-Stack Developer • Problem Solver
 </h3>
 
 <br/>
